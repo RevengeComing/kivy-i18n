@@ -3,6 +3,7 @@
 ## TODO:
 - [x] Label
 - [x] Button
-- [ ] TextInput
+- [x] TextInput
+- [ ] RTL position for text inputs
 
 - [ ] Create pypi package
